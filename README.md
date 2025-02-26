@@ -1,7 +1,7 @@
 # 🌸 Welcome to Bao Tram's Coding Garden 🌸
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Developer;UI%2FUX+Enthusiast;Network+Systems+Explorer;Thoughtful+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Developer;UI%2FUX+Enthusiast;Network+Systems+Explorer;Thoughtful+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,35 +35,33 @@ const baotram = {
 ## 🦄 GitHub Statistics ✨
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baotram11&show_icons=true&theme=panda&include_all_commits=true&count_private=true&border_radius=15&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=baotram11&theme=panda&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baotram11&show_icons=true&theme=light&include_all_commits=true&count_private=true&border_radius=15&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=baotram11&theme=light&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </p>
 
-<!-- Pink animated separator -->
+<!-- Pastel animated separator -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Pink wave animation" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Pastel wave animation" width="100%" />
 </div>
 
 ## 🐰 Contribution Garden 🌷
 
 <p align="center">
-  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baotram11&theme=monokai" alt="Annual Contribution Graph" />
-</p>
-
-<!-- Calendar contribution -->
+  <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baotram11&theme=github" alt="Annual Contribution Graph" />
+</p> <!-- Calendar contribution -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baotram11&theme=dracula&hide_border=true&area=true&radius=8" width="90%" alt="Contribution Activity Graph (Last Year)"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baotram11&theme=default&hide_border=true&area=true&radius=8" width="90%" alt="Contribution Activity Graph (Last Year)"/>
 </p>
 
 ## 📊 Weekly Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baotram11&layout=compact&theme=panda&hide_border=true&border_radius=15" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baotram11&layout=compact&theme=light&hide_border=true&border_radius=15" width="60%" alt="Top Languages" />
 </p>
 
 <!-- Animated typing element -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="70%" alt="Dev Quote" />
 </p>
 
 ## 🐼 Skills & Technologies 🌟
@@ -85,15 +83,15 @@ const baotram = {
 ## 🏆 GitHub Achievements 💖
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baotram11&theme=radical&no-frame=true&no-bg=false&margin-w=15&column=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=baotram11&theme=light&no-frame=true&no-bg=false&margin-w=15&column=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baotram11&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=baotram11&label=Profile%20views&color=F1D0C9&style=flat-square" alt="Profile Views" />
   
   <!-- Animated badge -->
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/baotram11?label=Followers&style=social">
-  <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4.svg" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made%20with-Love-FFB6C1.svg" alt="Made with love" />
 </div>
 
 ---
@@ -104,13 +102,13 @@ const baotram = {
 
 <div align="center">
   <a href="https://baotram.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:nbtram191@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-FF69B4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-FFB6C1?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/nbtram191">
-    <img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-FFB6C1?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -122,3 +120,10 @@ const baotram = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="600" alt="dino game">
 </div>
+
+<!-- Background gradient effect -->
+<style>
+  body {
+    background: linear-gradient(to right, #FFB6C1, #98FB98, #ADD8E6); /* Pink, Green, Blue Pastel gradient */
+  }
+</style>
