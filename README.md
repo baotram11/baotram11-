@@ -120,10 +120,3 @@ const baotram = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="600" alt="dino game">
 </div>
-
-<!-- Background gradient effect -->
-<style>
-  body {
-    background: linear-gradient(to right, #FFB6C1, #98FB98, #ADD8E6); /* Pink, Green, Blue Pastel gradient */
-  }
-</style>
